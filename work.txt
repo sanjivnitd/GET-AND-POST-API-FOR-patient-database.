@@ -1,0 +1,23 @@
+1. INSTALLING AND CUSTOMIZING SPRING BOOT IDE (STS).
+   
+   The first challange i faced was in istallation . as my java home path was not properly configured.
+   after that i had some issues in customization of spring boot. which i solved myself. 
+
+2. FIRSTLY HAD TO TAKE THE IDEA OF SPRING
+    
+	 As a beginer i first learned about spring . then i learned some new words and technologies like 
+	 what is DEPENDENCY , MAVEN , SERVELET , JSON , XML AND AOP. and several other terms to have a clear understanding of background.
+	 then i took overview of structure of classes in springboot.
+   
+3. MADE HARD CODED DATA BASE TO TEST
+   
+    As i was very new to spring boot . i first hand did not went for linking data base coz it would had been 
+	too complex. so i made a hardcoded small database. and made POST and GET api's for that hardcoded 
+	database. I had to download and use POSTMAN for posting data in my hardcoded database.
+	then i learned a lot of annotations which were being used in my program and what were the uses of them.
+
+4. USING SQL DATABASE WITH MY PREVIOUSLY MADE CODE
+   
+   Then i had to learn how to add database in my classes i had made. after i added databases i got some errors 
+   that were quite a hectic work for me to resolve.
+   
